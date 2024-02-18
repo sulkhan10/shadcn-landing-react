@@ -12,7 +12,7 @@ export const Footer = () => {
             className="font-bold text-xl flex"
           >
             <LogoIcon />
-            ShadcnUI/React
+           JP Malika
           </a>
         </div>
 
@@ -142,10 +142,10 @@ export const Footer = () => {
           &copy; 2024 Landing page made by{" "}
           <a
             target="_blank"
-            href="https://github.com/leoMirandaa"
+            href="https://github.com/sulkhan10"
             className="text-primary transition-all border-primary hover:border-b-2"
           >
-            Leo Miranda
+            JP Malika
           </a>
         </h3>
       </section>

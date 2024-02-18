@@ -54,7 +54,7 @@ export const Navbar = () => {
               className="ml-2 font-bold text-xl flex"
             >
               <LogoIcon />
-              ShadcnUI/React
+              JP Malika
             </a>
           </NavigationMenuItem>
 
@@ -78,7 +78,7 @@ export const Navbar = () => {
               <SheetContent side={"left"}>
                 <SheetHeader>
                   <SheetTitle className="font-bold text-xl">
-                    Shadcn/React
+                    JP Malika
                   </SheetTitle>
                 </SheetHeader>
                 <nav className="flex flex-col justify-center items-center gap-2 mt-4">
@@ -93,7 +93,7 @@ export const Navbar = () => {
                     </a>
                   ))}
                   <a
-                    href="https://github.com/leoMirandaa/shadcn-landing-page.git"
+                    href="https://github.com/sulkhan10"
                     target="_blank"
                     className={`w-[110px] border ${buttonVariants({
                       variant: "secondary",
@@ -124,7 +124,7 @@ export const Navbar = () => {
 
           <div className="hidden md:flex gap-2">
             <a
-              href="https://github.com/leoMirandaa/shadcn-landing-page.git"
+              href="https://github.com/sulkhan10"
               target="_blank"
               className={`border ${buttonVariants({ variant: "secondary" })}`}
             >

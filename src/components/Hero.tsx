@@ -10,29 +10,31 @@ export const Hero = () => {
         <main className="text-5xl md:text-6xl font-bold">
           <h1 className="inline">
             <span className="inline bg-gradient-to-r from-[#F596D3]  to-[#D247BF] text-transparent bg-clip-text">
-              Shadcn
+            Elevate
             </span>{" "}
-            landing page
+            {/* landing page */}
           </h1>{" "}
-          for{" "}
+          {/* to{" "} */}
+          {/* Your Brand with Tailored{" "} */}
+          Your Brand with our{" "}
+
           <h2 className="inline">
             <span className="inline bg-gradient-to-r from-[#61DAFB] via-[#1fc0f1] to-[#03a3d7] text-transparent bg-clip-text">
-              React
+            Digital Solutions
             </span>{" "}
-            developers
+            {/* Your Brands */}
           </h2>
         </main>
 
         <p className="text-xl text-muted-foreground md:w-10/12 mx-auto lg:mx-0">
-          Build your React landing page effortlessly with the required sections
-          to your project.
+          We specialize in crafting bespoke web solutions, captivating landing pages, and dynamic applications tailored for businesses, small enterprises, and individuals.
         </p>
 
         <div className="space-y-4 md:space-y-0 md:space-x-4">
           <Button className="w-full md:w-1/3">Get Started</Button>
 
           <a
-            href="https://github.com/leoMirandaa/shadcn-landing-page.git"
+            href="https://github.com/sulkhan10"
             target="_blank"
             className={`w-full md:w-1/3 ${buttonVariants({
               variant: "outline",
